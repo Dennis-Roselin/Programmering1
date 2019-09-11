@@ -34,7 +34,9 @@ public class HelloWorld {
         //TODO Experiment with printing stuff to console, awards extra challenge-points
 
         //TODO ASCII-art
-
+        System.out.println();
+        String name = "Dennis Roselin";
+        System.out.println(name);
         //TODO Find out how to store a String as a variable and then passing the name of
         // the variable to System.out.println(variable name)
 

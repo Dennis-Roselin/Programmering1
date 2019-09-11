@@ -26,6 +26,22 @@ public class OddOrEven {
          *      sant eller falskt(boolean)
          */
 
+        long modulResultA = a % 2;
+        // Printing out the answers to the console
+        System.out.println("Result from 912642198 modulus 2 = " + modulResultA);
+        System.out.println("if the number is 0 then it is even and if it's 1 then it's not");
+        System.out.println();
+
+        long modulResultB = b % 2;
+        System.out.println("Result from 1985612321 modulus 2 = " + modulResultB);
+        System.out.println("if the number is 0 then it is even and if it's 1 then it's not");
+        System.out.println();
+
+        long modulResultC = c % 2;
+        System.out.println("Result from 73 modulus 2 =" + modulResultC);
+        System.out.println("if the number is 0 then it is even and if it's 1 then it's not");
+        System.out.println();
+
         //TODO YOUR CODE HERE!!!   YOUR CODE HERE!!!   YOUR CODE HERE!!!   YOUR CODE HERE!!!   YOUR CODE HERE!!!
 
 

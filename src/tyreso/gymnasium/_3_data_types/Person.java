@@ -13,9 +13,12 @@ public class Person {
     double heightInCentimeters;
     int heightInMillimeters;
     // TODO discuss! weight;
+    float weight;
     char englishGrade;
     char mathGrade;
     char swedishGrade;
     // TODO discuss!  phoneNumber;
+    double phoneNumber;
     // TODO discuss!  personalIdentificationNumber;
+    double personalIdentificationNumber;
 }

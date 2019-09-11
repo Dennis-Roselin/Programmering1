@@ -23,27 +23,42 @@ public class DataTypeDecisions {
 
         //The number of students in the class
         //TODO !REMOVE ME! primitivetype numStudentsInClass;
+        //Becomes
+        byte numStudentsInClass;
 
         //A recommendation on whether the stock(aktier) should be sold
         //TODO !REMOVE ME! primitivetype sellStock;
+        //Becomes
+        boolean sellStock;
 
         //The number of ants in the world
         //TODO !REMOVE ME! primitivetype antsOnEarth;
+        //Becomes
+        long antsOnEarth;
 
         //Bank balance on your GTA savefile in dollars
         //TODO !REMOVE ME! primitivetype grandTheftAutoBankBalance;
+        //Becomes
+        long grandTheftAutoBankBalance;
 
         //Your course grade, represented as a->f
         //TODO !REMOVE ME! primitivetype letterGrade;
+        //Becomes
+        char letterGrade;
 
         //Your course grade, represented as a number for averaging
         //TODO !REMOVE ME! primitivetype numberGrade;
+        //Becomes
+        byte numberGrade;
 
         //Your actual bank balance in SEK
         //TODO !REMOVE ME! primitivetype accountBalanceInSek;
+        long accountBalanceInSek;
 
         //Variable that represents whether you've done your homework or not
         //TODO !REMOVE ME! primitivetype homeWorkDone;
+        //Becomes
+        boolean homeWorkDone;
 
         /**
          * TODO BONUS CHALLENGE BELOW!!!  BONUS CHALLENGE BELOW!!!  BONUS CHALLENGE BELOW!!!  BONUS CHALLENGE BELOW!!!

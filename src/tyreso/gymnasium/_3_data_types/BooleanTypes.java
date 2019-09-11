@@ -12,8 +12,8 @@ public class BooleanTypes {
      *
      * när (playerHealthPoints = 0) utvärderas till boolean true så körs koden som visar game over.
      */
-    boolean carlIsTheBest = true;   //True? True.
-    boolean palleIsABeast = false;
-    boolean endOfClass = false;     //En primitiv datatyp kvar, och sedan referenstyper/objekt
+    boolean carlIsTheBest = false;   //True? True.
+    boolean palleIsABeast = true;
+    boolean endOfClass = true;     //En primitiv datatyp kvar, och sedan referenstyper/objekt
 
 }

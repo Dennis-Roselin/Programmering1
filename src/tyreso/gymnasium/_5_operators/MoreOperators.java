@@ -96,9 +96,9 @@ public class MoreOperators {
         //TODO Vad ska vi skriva för att kolla om a är 5?
         a -= 7; //a = -2
         //TODO ...och här?
-        a *= 3; //a = TODO?
+        a *= 3; //a = -6
         //TODO ...och här?
-        a /= -3;
+        a /= -3; //a = 2
         //TODO ...och vad blev nu a till slut?
     }
 }

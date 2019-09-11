@@ -11,11 +11,25 @@ public class Main {
 
         //Create a new Fox-object
 
+        TalkingFox myFox = new TalkingFox();
+
         //Call the sound()-method ten times
 
         //Create a MyFox-object
 
         //Print the sound by calling the sound()-method
+        String returnedString = myFox.sound();
+        System.out.println(returnedString);
+        System.out.println(returnedString);
+        System.out.println(returnedString);
+        System.out.println(returnedString);
+        System.out.println(returnedString);
+        System.out.println(returnedString);
+        System.out.println(returnedString);
+        System.out.println(returnedString);
+        System.out.println(returnedString);
+        System.out.println(returnedString);
+
 
         //Create a new String variable using the return value of the sound()-method as the initial value
 
